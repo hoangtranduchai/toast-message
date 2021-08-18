@@ -45,6 +45,7 @@ body > div {
 
 .btn + .btn {
   margin-left: 16px;
+  margin-top: 16px;
 }
 
 .btn--success {
@@ -162,7 +163,7 @@ body > div {
   color: #333;
 }
 
-.toast__msg {
+.toast__mess {
   font-size: 14px;
   color: #888;
   margin-top: 6px;

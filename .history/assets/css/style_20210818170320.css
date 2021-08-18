@@ -16,13 +16,12 @@ body > div {
   margin: auto;
 }
 
-#main {
-  display: flex;
-  justify-content: center;
-  flex-wrap: wrap;
-}
-
 /* Button */
+.button {
+  width: 100%;
+  display: flex;
+  justify-content: space-around;
+}
 
 .btn {
   display: inline-block;
@@ -162,7 +161,7 @@ body > div {
   color: #333;
 }
 
-.toast__msg {
+.toast__mess {
   font-size: 14px;
   color: #888;
   margin-top: 6px;

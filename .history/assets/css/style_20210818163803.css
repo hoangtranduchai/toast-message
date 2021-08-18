@@ -9,21 +9,14 @@ body {
   display: flex;
   flex-direction: row;
   font-family: "Helvetica Neue";
-  background: url('../img/background/background1.jpg') 100% center / cover no-repeat;
+  background: url('../img/background/background2.jpg') 100% center / cover no-repeat;
 }
 
 body > div {
   margin: auto;
 }
 
-#main {
-  display: flex;
-  justify-content: center;
-  flex-wrap: wrap;
-}
-
 /* Button */
-
 .btn {
   display: inline-block;
   text-decoration: none;
@@ -162,7 +155,7 @@ body > div {
   color: #333;
 }
 
-.toast__msg {
+.toast__mess {
   font-size: 14px;
   color: #888;
   margin-top: 6px;

@@ -1,0 +1,34 @@
+/* PC */
+@media (min-width: 64em) {
+
+}
+
+/* PC & Tablet */
+@media (min-width: 46.25em) {
+
+}
+
+/* Tablet */
+@media (min-width: 46.25em) and (max-width: 63.9375em) {
+
+}
+
+/* Tablet & Mobile */
+@media (max-width: 63.9375em) {
+    .btn {
+        padding: 18px 48px;
+    }
+
+    .btn-size-s {
+        padding: 14px 40px;
+    }
+
+    .btn--size-l {
+        padding: 22px 56px;
+    }
+}
+
+/* Mobile */
+@media (max-width: 46.1875em) {
+
+}

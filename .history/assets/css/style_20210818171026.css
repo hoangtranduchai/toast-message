@@ -37,6 +37,7 @@ body > div {
   cursor: pointer;
   min-width: 120px;
   transition: opacity .2s ease;
+  margin-top: 32px;
 }
 
 .btn:hover {
@@ -162,7 +163,7 @@ body > div {
   color: #333;
 }
 
-.toast__msg {
+.toast__mess {
   font-size: 14px;
   color: #888;
   margin-top: 6px;
