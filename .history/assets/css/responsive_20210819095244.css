@@ -33,9 +33,14 @@
     .btn {
         margin-top: 32px;
     }
+    
+    #btn {
+        display: inline-block;
+        margin: auto;
+    }
 
     .toast {
-        min-width: 200px;
+        min-width: 300px;
         max-width: 100%;
     }
 }
